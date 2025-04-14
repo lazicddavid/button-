@@ -10,13 +10,16 @@ body {
   height: 250px;
   width: 500px;
   border-radius: 40px;
-  align-items: center;
   font-size: 4rem;
-  padding: 20px 40px;
   cursor: pointer;
 }
 
 .btn:hover {
   background-color: rgba(0, 0, 0, 0.627);
   color: yellow;
+}
+
+.link {
+  list-style: none;
+  text-underline-offset: ;
 }
