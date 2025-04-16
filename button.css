@@ -13,6 +13,7 @@ body {
 .btn2,
 .btn3,
 .btn4 {
+  motion-rotation: 20deg;
   background-color: black;
   color: red;
   height: 250px;
