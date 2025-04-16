@@ -4,7 +4,8 @@ body {
   font-family: sans-serif;
 }
 
-.btn {
+.btn,
+.btn2 {
   background-color: black;
   color: red;
   height: 250px;
@@ -15,7 +16,12 @@ body {
   box-shadow: 10px 10px 5px 0px rgba(0, 0, 0, 0.75);
 }
 
-.btn:hover {
+.btn:hover,
+.btn2:hover {
   background-color: rgba(0, 0, 0, 0.627);
   color: yellow;
+}
+
+.btn2 {
+  margin-top: 50px;
 }
