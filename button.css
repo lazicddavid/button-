@@ -5,12 +5,14 @@ body {
 }
 
 .main {
-  display: grid;
+  display: flex;
+  justify-content: space-between;
 }
 
 .btn,
 .btn2,
-.btn3 {
+.btn3,
+.btn4 {
   background-color: black;
   color: red;
   height: 250px;
@@ -23,7 +25,8 @@ body {
 
 .btn:hover,
 .btn2:hover,
-.btn3:hover {
+.btn3:hover,
+.btn4:hover {
   background-color: rgba(0, 0, 0, 0.627);
   color: yellow;
 }
