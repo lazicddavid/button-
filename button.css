@@ -1,10 +1,11 @@
 body {
-  margin: 50px 100px;
+  margin: 50px 0;
   background-color: rgb(10, 40, 69);
   font-family: sans-serif;
 }
 
 .main {
+  display: grid;
 }
 
 .btn,
