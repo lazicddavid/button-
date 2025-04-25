@@ -31,7 +31,9 @@ body {
 .btn4:hover,
 .btn5:hover,
 .btn6:hover,
-.btn7:hover .bnt8 .btn9 {
+.btn7:hover,
+.bnt8:hover,
+.btn9:hover {
   background-color: rgba(0, 0, 0, 0.627);
   color: yellow;
 }
