@@ -25,15 +25,15 @@ body {
   box-shadow: 10px 10px 5px 0px rgba(0, 0, 0, 0.75);
 }
 
-.btn:hover,
-.btn2:hover,
-.btn3:hover,
-.btn4:hover,
-.btn5:hover,
-.btn6:hover,
-.btn7:hover,
-.bnt8:hover,
-.btn9:hover {
+.btn11:hover,
+.btn12:hover,
+.btn13:hover,
+.btn14:hover,
+.btn15:hover,
+.btn16:hover,
+.btn17:hover,
+.bnt18:hover,
+.btn19:hover {
   background-color: rgba(0, 0, 0, 0.627);
   color: yellow;
 }
