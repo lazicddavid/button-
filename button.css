@@ -36,6 +36,6 @@ body {
   color: yellow;
   background-color: orange;
   box-shadow: indigo;
-
+  padding: 20px;
   margin: 2px;
 }
